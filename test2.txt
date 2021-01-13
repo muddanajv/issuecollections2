@@ -1,0 +1,1 @@
+HAP-447 - Generic Artifactory Integration uses server resolver credentials instead of deployer credentialsjyothi
